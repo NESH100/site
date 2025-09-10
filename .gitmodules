@@ -1,0 +1,4 @@
+[submodule "my-new-site/public"]
+	path = my-new-site/public
+	url = git@github.com:NESH100/PhysicsFoam.github.io.git
+	branch = main
